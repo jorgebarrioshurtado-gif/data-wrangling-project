@@ -7,7 +7,8 @@
 4. Methodology
 5. Main Findings and Insights
 6. Further Questions and Next Steps
-7. Links
+7. Authors
+8. Links
 
 ## Introduction
 
@@ -59,6 +60,9 @@ The analysis suggests that sustainability messaging does not consistently corres
 ## Further Questions and Next Steps
 
 Future work could expand the analysis to include more brands, longer time spans, or more granular country-level waste and pollution data. It would also be useful to compare official brand claims with independent environmental audits or NGO reports. Another next step would be to measure media tone more carefully to separate neutral coverage from critical greenwashing coverage.
+
+## Authors
+Hina Haq & Jorge Barrios Hurtado
 
 ## Links
 
